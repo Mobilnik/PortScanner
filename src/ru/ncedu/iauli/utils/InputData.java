@@ -1,4 +1,4 @@
-package ru.ncedu.Utils;
+package ru.ncedu.iauli.utils;
 
 /**
  * The class (@code InputData) provides user with several setters and getters of host address and

@@ -1,4 +1,4 @@
-package ru.ncedu.Utils;
+package ru.ncedu.iauli.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

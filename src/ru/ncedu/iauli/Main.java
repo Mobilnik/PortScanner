@@ -1,7 +1,7 @@
-package ru.ncedu;
+package ru.ncedu.iauli;
 
-import ru.ncedu.PortScanner.PortScanner;
-import ru.ncedu.Utils.InputData;
+import ru.ncedu.iauli.scanner.PortScanner;
+import ru.ncedu.iauli.utils.InputData;
 
 /**
  * @author Ilya Ulitin

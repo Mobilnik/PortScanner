@@ -1,4 +1,4 @@
-package ru.ncedu.Utils;
+package ru.ncedu.iauli.utils;
 
 /**
  * An exception, that is thrown when (@code Parser) was unable to

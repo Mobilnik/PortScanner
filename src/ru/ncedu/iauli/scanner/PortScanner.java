@@ -1,6 +1,9 @@
-package ru.ncedu.PortScanner;
+package ru.ncedu.iauli.scanner;
 
-import ru.ncedu.Utils.*;
+import ru.ncedu.iauli.utils.IncorrectHostAddressException;
+import ru.ncedu.iauli.utils.IncorrectPortNumbersException;
+import ru.ncedu.iauli.utils.InputData;
+import ru.ncedu.iauli.utils.Parser;
 
 import java.io.IOException;
 import java.net.Socket;
